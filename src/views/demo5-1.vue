@@ -1,5 +1,6 @@
 <template>
     <h2>借助transition-delay实现按钮border动画效果</h2>
+    <p>所以，合理控制每一个属性，就能组合得到各种有趣的效果。</p>
     <div class="both">Both</div>
     <div class="rectangle">Rectangle</div>
     <div class="circle">Circle</div>
