@@ -116,7 +116,7 @@
 }
 .doc-example {
   position: relative;
-  font-size: 24px;
+  font-size: 12px;
   line-height: 30px;
   z-index: 1;
 }
@@ -160,17 +160,17 @@
  */
 
 h1 {
-  font-size: 32px;
-  line-height: 60px;
+  font-size: 14px;
+  line-height: 24px;
 }
 
 ul {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 p {
-  font-size: 24px;
-  line-height: 30px;
-  margin-top: 30px;
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 10px;
 }
 </style>

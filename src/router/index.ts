@@ -23,9 +23,19 @@ const router = createRouter({
       component: () => import("../views/demo1-2.vue"),
     },
     {
+      path: "/demo1-3",
+      name: "demo1-3",
+      component: () => import("../views/demo1-3.vue"),
+    },
+    {
       path: "/demo2-1",
       name: "demo2-1",
       component: () => import("../views/demo2-1.vue"),
+    },
+    {
+      path: "/demo2-2",
+      name: "demo2-2",
+      component: () => import("../views/demo2-2.vue"),
     },
     {
       path: "/demo3-1",
@@ -41,6 +51,11 @@ const router = createRouter({
       path: "/demo4-1",
       name: "demo4-1",
       component: () => import("../views/demo4-1.vue"),
+    },
+    {
+      path: "/demo4-2",
+      name: "demo4-2",
+      component: () => import("../views/demo4-2.vue"),
     },
     {
       path: "/demo5-1",
@@ -71,6 +86,11 @@ const router = createRouter({
       path: "/demo5-6",
       name: "demo5-6",
       component: () => import("../views/demo5-6.vue"),
+    },
+    {
+      path: "/demo5-7",
+      name: "demo5-7",
+      component: () => import("../views/demo5-7.vue"),
     },
     {
       path: "/demo6-1",

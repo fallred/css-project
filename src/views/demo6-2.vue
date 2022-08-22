@@ -10,7 +10,7 @@
 <script lang="ts" setup>
 const num = 30;
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 $count: 30;
 $img: "https://test-files.genshuixue.com/umeng-content-platform/image/c5a90c6a-5257-48ef-b163-5eeecac1bf4b.jpg";
 
